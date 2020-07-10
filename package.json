@@ -1,0 +1,25 @@
+{
+  "name": "awsstorage",
+  "version": "0.0.9",
+  "description": "Access s3 via api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.709.0",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "express-session": "^1.17.1",
+    "mime": "^2.4.6",
+    "mysql": "^2.18.1",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "session": "^0.1.0"
+  }
+}
