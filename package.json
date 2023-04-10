@@ -9,7 +9,7 @@
   "author": "Marcus",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.814.0",
+    "aws-sdk": "^2.1354.0",
     "bcrypt": "^5.0.0",
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
